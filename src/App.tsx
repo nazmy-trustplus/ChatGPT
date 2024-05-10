@@ -84,12 +84,12 @@ function App() {
                 </span>
                 By
                 <a
-                  href="https://www.prasadbro.com/"
+                  href="https://trustplus.ai/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="ml-2 underline"
                 >
-                  Prasadbro
+                  Trustplus AI
                 </a>
               </footer>
             </div>

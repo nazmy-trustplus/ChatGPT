@@ -8,7 +8,7 @@ export default function GptIntro() {
     state.settings.selectedModal,
     state.setModal,
   ]);
-  const isGptThreeSelected = selectedModel.startsWith("gpt-3");
+  const isGptThreeSelected = selectedModel.startsWith("gpt-4");
   return (
     <>
       <div className="modals md:w-1/5 md:min-w-[300px] mx-2 relative flex items-center rounded-md justify-between mt-5 md:mx-auto  bg-gray-200 dark:bg-[#202123] gap-2">
